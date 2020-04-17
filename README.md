@@ -1,6 +1,9 @@
 # ArduinoFM
 Make a DIY FM Radio with an Arduino, a small LCD and a TEA5767 module!
 
+Please note that all project details and comments are in catalan, due to school requirements,
+but you can ask me at any time for specific translations!
+
 You can see more details about this at https://tiny.cc/tdrericroy
 
 ### What is it?

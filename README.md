@@ -19,3 +19,5 @@ There are 4 steps to do:
 
 ### More info
 This project has been made in 2018 by myself (Eric Roy) for school and learn purposes. It hasn't got the best code, but remember that at that age i was only fifteen!!
+
+Credit to https://github.com/mroger/TEA5767 for the library!
